@@ -26,27 +26,11 @@ h2,h3{
     box-shadow: inset 2000px 0 0 0 brown(0, 0, 0, 0.5);
     background-image: url('/images/imageback.jpg');
 }  
-
-.contacts a {
-    margin: 0px;
-    padding: 0px;
-    display: flex;
-    
-    justify-content:space-evenly;
-    background: whitesmoke;
-    text-align: center;
-    font-size: 20px;
-}
-.contacts a:hover {
-    color: black;
-}
 .nav-bar-links>a{
     color: white;
     margin-left: 3%;
     margin-top: 1%;
     text-decoration: none ;
-    
-
 } 
 /* visited link */
 a:visited {
@@ -87,6 +71,18 @@ a:visited {
     text-align: center;
 
 }
+footer {
+    background: grey;
+    height: auto;
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+}
+h5{
+    font-size: 75px;
+    color: whitesmoke;
+}
+ 
  
 
  
