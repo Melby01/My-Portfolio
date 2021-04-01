@@ -54,7 +54,12 @@ a:visited {
   /* mouse over link */
   a:hover {
     color: hotpink;
-  }
+ }
+.introduction{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 120px;
+}
  
 
  
