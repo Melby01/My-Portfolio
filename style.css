@@ -18,19 +18,12 @@ h2,h3{
     font-family: 'Dancing Script', cursive;
 }
 
-.navs{
-    width: auto;
-    height: 100vh;
-    background-size: cover;
-    border-color: brown(0, 0, 0, 1);
-    box-shadow: inset 2000px 0 0 0 brown(0, 0, 0, 0.5);
-    background-image: url('/images/imageback.jpg');
-}  
 .nav-bar-links>a{
     color: white;
     margin-left: 3%;
     margin-top: 1%;
     text-decoration: none ;
+    font-size: 100px;
 } 
 /* visited link */
 a:visited {
