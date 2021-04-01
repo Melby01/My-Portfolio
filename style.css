@@ -5,16 +5,16 @@ body{
     background-image: url('https://wallpaper.dog/large/10792005.png');
     background-size: cover;
     font-size: 30px;
-    color:aqua;
+    color:white;
 }
 
 h1 {
-    color: brown;
+    color:aqua;
     text-align: center;
 }
     
 h2,h3{
-    color: brown;
+    color:aqua;
     font-family: 'Dancing Script', cursive;
 }
 
