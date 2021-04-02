@@ -34,6 +34,12 @@ a:visited {
   a:hover {
     color: hotpink;
  }
+
+ /*unvisited link*/
+ a:active {
+    color:aqua;
+}
+
 .introduction{
     text-align: center;
     color: whitesmoke;
@@ -52,7 +58,6 @@ a:visited {
     box-shadow: 2vh 1vh 3vh .5vh palevioletred;
     width: 80%;
     text-align: center;
-
 }
 
 #about{
@@ -64,18 +69,13 @@ a:visited {
     text-align: center;
 
 }
-footer {
-    background: grey;
-    height: auto;
-    width: 100%;
-    margin: auto;
-    padding: 20px;
-}
 h5{
     font-size: 75px;
     color: whitesmoke;
 }
- 
+.container{
+    flex-direction: row;
+}
  
 
  
