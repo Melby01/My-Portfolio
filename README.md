@@ -16,4 +16,4 @@ This will clone the repositoty into your local folder
 1. CSS
 1. Git
 ### Live Site
-View [live]( )
+View [live](https://melby01.github.io/My-Portfolio/ )
